@@ -1,4 +1,4 @@
-# Calculadora-SpringBoot
+# Calculadora-AndroidStudio
 
 Calculadora Feito no Android Studio para a aula de Programação de dispositivos moveis, Facens.
 
